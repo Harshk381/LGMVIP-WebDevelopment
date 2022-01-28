@@ -25,5 +25,3 @@ Languages Used: -
 2)Back-End: MySQL
 
 3)Server Language: PHP, Server: Wamp Server Version3.3.0 64bit
-
-Back-End Connectivity: - Apache2.4.41 Port80 & PHP7.4.1
